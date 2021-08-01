@@ -4,7 +4,7 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
-    "@pancakeswap-libs/sdk": "1.0.3",
+    "@pancakeswap-libs/sdk": "1.0.1",
     "@pancakeswap-libs/uikit": "goosedefi/goose-uikit",
     "@binance-chain/bsc-connector": "^1.0.0",
     "@crowdin/crowdin-api-client": "^1.8.16",
