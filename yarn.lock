@@ -1330,21 +1330,21 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@pancakeswap-libs/becoswap-core@^0.1.0":
+"@becoswap-libs/becoswap-core@^0.1.0":
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/becoswap-core/-/becoswap-core-0.1.0.tgz#bbb3e64c010e4177dae9bb4845773928c0af8cdb"
+  resolved "https://registry.yarnpkg.com/@becoswap-libs/becoswap-core/-/becoswap-core-0.1.0.tgz#bbb3e64c010e4177dae9bb4845773928c0af8cdb"
   integrity sha512-HrRiRcj5O0wyJD+PvU2PzQsM6vS0ymCkESA8TY9cRQRBR2XGbEj0S7NWScy8DQFX3/I2o9EVJc+/QoVQZo5xow==
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"
     truffle-hdwallet-provider "^1.0.17"
 
-"@pancakeswap-libs/sdk@1.0.3":
+"@becoswap-libs/sdk@1.0.3":
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/sdk/-/sdk-1.0.3.tgz#019c6aefdb56ac8b42955ac25712e08a25557cb2"
+  resolved "https://registry.yarnpkg.com/@becoswap-libs/sdk/-/sdk-1.0.3.tgz#019c6aefdb56ac8b42955ac25712e08a25557cb2"
   integrity sha512-gBVOoID6JH8RsweHIfYVxzUZgfjRhOAvTr0oEWDdgdVhensytIAsH5qj9ZbCfFUHNIUtu+nZD8HJ2hvedY/WUQ==
   dependencies:
-    "@pancakeswap-libs/becoswap-core" "^0.1.0"
+    "@becoswap-libs/becoswap-core" "^0.1.0"
     big.js "^5.2.2"
     decimal.js-light "^2.5.0"
     jsbi "^3.1.1"
@@ -1352,9 +1352,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@1.0.1":
+"@becoswap-libs/uikit@1.0.1":
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/uikit/-/uikit-1.0.1.tgz#821ff449d90f0aa7daa36c574b0357bfcb7da0bd"
+  resolved "https://registry.yarnpkg.com/@becoswap-libs/uikit/-/uikit-1.0.1.tgz#821ff449d90f0aa7daa36c574b0357bfcb7da0bd"
   integrity sha512-09sxkydyEI/1Qyks+dF2CXZejfr06ijYXm9ElFdEIzGQcyVtoib3bAQw3hWGxzOGGlkuq1GfmVrTU4kOOGY2hA==
   dependencies:
     "@popperjs/core" "^2.9.2"
