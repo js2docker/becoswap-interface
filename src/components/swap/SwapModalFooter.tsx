@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@becoswap-libs/sdk'
+import { Trade, TradeType } from '@pancakeswap-libs/sdk'
 import React, { useMemo, useState } from 'react'
 import { Text, Button } from '@becoswap-libs/uikit'
 import { Repeat } from 'react-feather'
