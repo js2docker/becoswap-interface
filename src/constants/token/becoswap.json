@@ -10,15 +10,7 @@
   "logoURI": "https://exchange.becoswap.com/images/becoswap.png",
   "keywords": ["becoswap", "default"],
   "tokens": [
-    {
-      "name": "Beco Token",
-      "symbol": "BECO",
-      "address": "0x8fe4d28476cdd43d36a12eb47dc3243c1925f263",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.becoswap.com/images/coins/0x8fe4d28476cdd43d36a12eb47dc3243c1925f263.png"
-    },
-    {
+        {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
