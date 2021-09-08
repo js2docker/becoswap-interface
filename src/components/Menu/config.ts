@@ -1,4 +1,4 @@
-import { MenuEntry } from '@becoswap-libs/uikit'
+import { MenuEntry } from '@domgeswap/testswap-uikit'
 
 const config: MenuEntry[] = [
   {

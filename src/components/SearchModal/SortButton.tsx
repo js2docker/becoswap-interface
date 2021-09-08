@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@becoswap-libs/uikit'
+import { Text } from '@domgeswap/testswap-uikit'
 import styled from 'styled-components'
 import { RowFixed } from '../Row'
 

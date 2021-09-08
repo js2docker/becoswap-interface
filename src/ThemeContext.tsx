@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { ThemeProvider as SCThemeProvider } from 'styled-components'
-import { light, dark } from '@becoswap-libs/uikit'
+import { light, dark } from '@domgeswap/testswap-uikit'
 
 const CACHE_KEY = 'IS_DARK'
 
