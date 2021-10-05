@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { JSBI, Pair, Percent } from '@pancakeswap-libs/sdk'
-import { Button, Card as UIKitCard, CardBody, Text } from '@domgeswap/testswap-uikit'
+import { JSBI, Pair, Percent } from '@domgeswap/sdk'
+import { Button, Card as UIKitCard, CardBody, Text } from '@becoswap-libs/uikit'
 import { darken } from 'polished'
 import { ChevronDown, ChevronUp } from 'react-feather'
 import { Link } from 'react-router-dom'

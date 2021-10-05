@@ -4,8 +4,8 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
-    "@pancakeswap-libs/sdk": "1.0.1",
-    "@domgeswap/testswap-uikit": "0.0.9",
+    "@domgeswap/sdk": "1.0.3",
+    "@becoswap-libs/uikit": "1.0.2",
     "@binance-chain/bsc-connector": "^1.0.0",
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",

@@ -1,6 +1,6 @@
-import { Trade, TradeType } from '@pancakeswap-libs/sdk'
+import { Trade, TradeType } from '@domgeswap/sdk'
 import React, { useMemo, useState } from 'react'
-import { Text, Button } from '@domgeswap/testswap-uikit'
+import { Text, Button } from '@becoswap-libs/uikit'
 import { Repeat } from 'react-feather'
 
 import useI18n from 'hooks/useI18n'

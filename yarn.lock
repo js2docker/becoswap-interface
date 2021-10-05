@@ -1339,12 +1339,12 @@
     truffle-flattener "^1.4.4"
     truffle-hdwallet-provider "^1.0.17"
 
-"@pancakeswap-libs/sdk@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/sdk/-/sdk-1.0.1.tgz#602e6da34fd5bde0f3c869f9abe63bb5f4aaf063"
-  integrity sha512-N4EZlAD0PD7lgVEE8jOufUPRNBvcR3STSjBC9QVwoKmmH1czEY9lu8/SySecKchZtSi66qAfsrghkdXo8tnJsg==
+"@domgeswap/sdk@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@domgeswap/sdk/-/sdk-1.0.3.tgz#019c6aefdb56ac8b42955ac25712e08a25557cb2"
+  integrity sha512-gBVOoID6JH8RsweHIfYVxzUZgfjRhOAvTr0oEWDdgdVhensytIAsH5qj9ZbCfFUHNIUtu+nZD8HJ2hvedY/WUQ==
   dependencies:
-    "@uniswap/v2-core" "^1.0.0"
+    "@becoswap-libs/becoswap-core" "^0.1.0"
     big.js "^5.2.2"
     decimal.js-light "^2.5.0"
     jsbi "^3.1.1"
@@ -1352,9 +1352,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@domgeswap/testswap-uikit@1.0.1":
+"@becoswap-libs/uikit@1.0.1":
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@domgeswap/testswap-uikit/-/uikit-1.0.1.tgz#821ff449d90f0aa7daa36c574b0357bfcb7da0bd"
+  resolved "https://registry.yarnpkg.com/@becoswap-libs/uikit/-/uikit-1.0.1.tgz#821ff449d90f0aa7daa36c574b0357bfcb7da0bd"
   integrity sha512-09sxkydyEI/1Qyks+dF2CXZejfr06ijYXm9ElFdEIzGQcyVtoib3bAQw3hWGxzOGGlkuq1GfmVrTU4kOOGY2hA==
   dependencies:
     "@popperjs/core" "^2.9.2"
