@@ -1,6 +1,6 @@
 import React from 'react'
 import { Currency, Percent, Price } from '@domgeswap/sdk'
-import { Text } from '@becoswap-libs/uikit'
+import { Text } from 'becoswap-toolkit'
 import { AutoColumn } from '../../components/Column'
 import { AutoRow } from '../../components/Row'
 import { ONE_BIPS } from '../../constants'

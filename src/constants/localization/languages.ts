@@ -1,4 +1,4 @@
-import { Language } from '@becoswap-libs/uikit'
+﻿import { Language } from 'becoswap-toolkit'
 
 export const AR: Language = { locale: 'ar-SA', language: 'العربية', code: 'ar' }
 export const EN: Language = { locale: 'en-US', language: 'English', code: 'en' }

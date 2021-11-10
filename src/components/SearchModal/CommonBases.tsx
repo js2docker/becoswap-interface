@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@becoswap-libs/uikit'
+import { Text } from 'becoswap-toolkit'
 import { ChainId, Currency, currencyEquals, ETHER, Token } from '@domgeswap/sdk'
 import styled from 'styled-components'
 

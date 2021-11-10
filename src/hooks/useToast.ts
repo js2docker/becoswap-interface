@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { kebabCase } from 'lodash'
-import { Toast, toastTypes } from '@becoswap-libs/uikit'
+import { Toast, toastTypes } from 'becoswap-toolkit'
 import { useDispatch } from 'react-redux'
 
 import {

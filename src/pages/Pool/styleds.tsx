@@ -1,4 +1,4 @@
-import { Text } from '@becoswap-libs/uikit'
+import { Text } from 'becoswap-toolkit'
 import styled from 'styled-components'
 
 export const Wrapper = styled.div`

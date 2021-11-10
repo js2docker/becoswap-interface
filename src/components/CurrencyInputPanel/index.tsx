@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
 import { Currency, Pair } from '@domgeswap/sdk'
-import { Button, ChevronDownIcon, Text } from '@becoswap-libs/uikit'
+import { Button, ChevronDownIcon, Text } from 'becoswap-toolkit'
 import styled from 'styled-components'
 import { darken } from 'polished'
 import useI18n from 'hooks/useI18n'
