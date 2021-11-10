@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { Menu as UikitMenu} from 'becoswap-toolkit'
+import { Menu as UikitMenu} from '@pantherswap-libs/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { LanguageContext } from 'hooks/LanguageContext'
 import useGetPriceData from 'hooks/useGetPriceData'

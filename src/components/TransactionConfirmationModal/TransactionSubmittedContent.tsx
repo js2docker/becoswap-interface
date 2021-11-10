@@ -1,7 +1,7 @@
 import { ChainId } from '@domgeswap/sdk'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Button, LinkExternal } from 'becoswap-toolkit'
+import { Button, LinkExternal } from '@pantherswap-libs/uikit'
 import { ArrowUpCircle } from 'react-feather'
 import { AutoColumn } from '../Column'
 import { getBscScanLink } from '../../utils'

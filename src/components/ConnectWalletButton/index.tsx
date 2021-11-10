@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, ButtonProps, useWalletModal} from 'becoswap-toolkit'
+import { Button, ButtonProps, useWalletModal} from '@pantherswap-libs/uikit'
 import useI18n from 'hooks/useI18n'
 import useAuth from 'hooks/useAuth'
 

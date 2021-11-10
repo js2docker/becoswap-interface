@@ -1,6 +1,6 @@
 import React from 'react'
 import { Price } from '@domgeswap/sdk'
-import { SyncAltIcon, Text } from 'becoswap-toolkit'
+import { SyncAltIcon, Text } from '@pantherswap-libs/uikit'
 import { StyledBalanceMaxMini } from './styleds'
 
 interface TradePriceProps {

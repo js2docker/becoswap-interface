@@ -1,6 +1,6 @@
 import { Currency, CurrencyAmount, Fraction, Percent } from '@domgeswap/sdk'
 import React from 'react'
-import { Button, Text } from 'becoswap-toolkit'
+import { Button, Text } from '@pantherswap-libs/uikit'
 import { TranslateString } from 'utils/translateTextHelpers'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'

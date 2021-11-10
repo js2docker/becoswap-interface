@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal } from 'becoswap-toolkit'
+import { Modal } from '@pantherswap-libs/uikit'
 import SlippageToleranceSetting from './SlippageToleranceSetting'
 import TransactionDeadlineSetting from './TransactionDeadlineSetting'
 import AudioSetting from './AudioSetting'

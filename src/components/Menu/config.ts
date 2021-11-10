@@ -1,4 +1,4 @@
-import { MenuEntry } from 'becoswap-toolkit'
+import { MenuEntry } from '@pantherswap-libs/uikit'
 
 const config: MenuEntry[] = [
   {
