@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Flex, Text, PancakeToggle, useMatchBreakpoints } from '@domgeswap/uikit'
+import { Box, Flex, Text, PancakeToggle, useMatchBreakpoints } from '@domgeswap/beco-uikit'
 import { useAudioModeManager } from 'state/user/hooks'
 
 type AudioSettingModalProps = {

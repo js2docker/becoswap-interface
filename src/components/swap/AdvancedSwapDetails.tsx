@@ -1,6 +1,6 @@
 import React from 'react'
 import { Trade, TradeType } from '@domgeswap/sdk'
-import { Card, CardBody, Text } from '@domgeswap/uikit'
+import { Card, CardBody, Text } from '@domgeswap/beco-uikit'
 import useI18n from 'hooks/useI18n'
 import { Field } from '../../state/swap/actions'
 import { useUserSlippageTolerance } from '../../state/user/hooks'

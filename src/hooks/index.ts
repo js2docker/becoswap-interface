@@ -1,6 +1,6 @@
 import { Web3Provider } from '@ethersproject/providers'
 import { ChainId } from '@domgeswap/sdk'
-import { connectorLocalStorageKey } from '@domgeswap/uikit'
+import { connectorLocalStorageKey } from '@domgeswap/beco-uikit'
 import { useWeb3React as useWeb3ReactCore } from '@web3-react/core'
 // eslint-disable-next-line import/no-unresolved
 import { Web3ReactContextInterface } from '@web3-react/core/dist/types'
