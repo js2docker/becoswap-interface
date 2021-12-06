@@ -1,4 +1,4 @@
-import { Token } from '@domgeswap/sdk'
+import { Token } from '@domgeswap/beco-sdk'
 import { isAddress } from '../../utils'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {

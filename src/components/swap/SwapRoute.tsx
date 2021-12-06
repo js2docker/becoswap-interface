@@ -1,4 +1,4 @@
-import { Trade } from '@domgeswap/sdk'
+import { Trade } from '@domgeswap/beco-sdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex, Text } from '@domgeswap/beco-uikit'

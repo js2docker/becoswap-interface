@@ -1,5 +1,5 @@
 import React from 'react'
-import { Currency, Percent, Price } from '@domgeswap/sdk'
+import { Currency, Percent, Price } from '@domgeswap/beco-sdk'
 import { Text } from '@domgeswap/beco-uikit'
 import { AutoColumn } from '../../components/Column'
 import { AutoRow } from '../../components/Row'

@@ -1,4 +1,4 @@
-import { ChainId } from '@domgeswap/sdk'
+import { ChainId } from '@domgeswap/beco-sdk'
 import MULTICALL_ABI from './abi.json'
 
 const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {

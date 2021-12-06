@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from '@domgeswap/sdk'
+import { currencyEquals, Trade } from '@domgeswap/beco-sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@domgeswap/sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from '@domgeswap/beco-sdk'
 
 export const ROUTER_ADDRESS = '0x2b9856fa15974f994a7d3040874af658e6b9f312'
 

@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@domgeswap/sdk'
+import { Token, TokenAmount } from '@domgeswap/beco-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

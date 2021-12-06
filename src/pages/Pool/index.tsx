@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Pair } from '@domgeswap/sdk'
+import { Pair } from '@domgeswap/beco-sdk'
 import { Button, CardBody, Text } from '@domgeswap/beco-uikit'
 import { Link } from 'react-router-dom'
 import CardNav from 'components/CardNav'

@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@domgeswap/sdk'
+import { Currency, ETHER, Token } from '@domgeswap/beco-sdk'
 import React, { KeyboardEvent, RefObject, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react'
 import { Text, CloseIcon } from '@domgeswap/beco-uikit'
 import { useSelector } from 'react-redux'

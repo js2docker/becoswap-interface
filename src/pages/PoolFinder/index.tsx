@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from '@domgeswap/sdk'
+import { Currency, ETHER, JSBI, TokenAmount } from '@domgeswap/beco-sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from '@domgeswap/beco-uikit'
 import CardNav from 'components/CardNav'

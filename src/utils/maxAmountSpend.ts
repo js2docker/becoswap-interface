@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@domgeswap/sdk'
+import { CurrencyAmount, ETHER, JSBI } from '@domgeswap/beco-sdk'
 import { MIN_ETH } from '../constants'
 
 /**

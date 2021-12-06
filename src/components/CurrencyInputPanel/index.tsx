@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@domgeswap/sdk'
+import { Currency, Pair } from '@domgeswap/beco-sdk'
 import { Button, ChevronDownIcon, Text } from '@domgeswap/beco-uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'

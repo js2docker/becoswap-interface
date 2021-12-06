@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { JSBI, Pair, Percent } from '@domgeswap/sdk'
+import { JSBI, Pair, Percent } from '@domgeswap/beco-sdk'
 import { Button, Card as UIKitCard, CardBody, Text } from '@domgeswap/beco-uikit'
 import { darken } from 'polished'
 import { ChevronDown, ChevronUp } from 'react-feather'

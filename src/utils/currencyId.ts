@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@domgeswap/sdk'
+import { Currency, ETHER, Token } from '@domgeswap/beco-sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'BNB'

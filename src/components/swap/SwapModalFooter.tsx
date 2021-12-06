@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@domgeswap/sdk'
+import { Trade, TradeType } from '@domgeswap/beco-sdk'
 import React, { useMemo, useState } from 'react'
 import { Text, Button } from '@domgeswap/beco-uikit'
 import { Repeat } from 'react-feather'

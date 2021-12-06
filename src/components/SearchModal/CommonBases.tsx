@@ -1,6 +1,6 @@
 import React from 'react'
 import { Text } from '@domgeswap/beco-uikit'
-import { ChainId, Currency, currencyEquals, ETHER, Token } from '@domgeswap/sdk'
+import { ChainId, Currency, currencyEquals, ETHER, Token } from '@domgeswap/beco-sdk'
 import styled from 'styled-components'
 
 import useI18n from 'hooks/useI18n'

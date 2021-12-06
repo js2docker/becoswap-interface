@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from '@domgeswap/sdk'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from '@domgeswap/beco-sdk'
 
 import {
   getBscScanLink,

@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@domgeswap/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@domgeswap/beco-sdk'
 import React from 'react'
 import { Button, Text } from '@domgeswap/beco-uikit'
 import { TranslateString } from 'utils/translateTextHelpers'

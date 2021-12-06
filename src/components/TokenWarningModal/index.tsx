@@ -1,4 +1,4 @@
-import { Token } from '@domgeswap/sdk'
+import { Token } from '@domgeswap/beco-sdk'
 import { transparentize } from 'polished'
 import { Button, Text } from '@domgeswap/beco-uikit'
 import React, { useCallback, useMemo, useState } from 'react'

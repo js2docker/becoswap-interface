@@ -1,5 +1,5 @@
 import React from 'react'
-import { Price } from '@domgeswap/sdk'
+import { Price } from '@domgeswap/beco-sdk'
 import { SyncAltIcon, Text } from '@domgeswap/beco-uikit'
 import { StyledBalanceMaxMini } from './styleds'
 

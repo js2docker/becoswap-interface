@@ -4,7 +4,7 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
-    "@domgeswap/sdk": "1.0.2",
+    "@domgeswap/beco-sdk": "1.0.2",
     "@domgeswap/beco-uikit": "0.29.5",
     "@binance-chain/bsc-connector": "^1.0.0",
     "@crowdin/crowdin-api-client": "^1.8.16",

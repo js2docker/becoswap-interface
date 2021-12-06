@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Pair, Token, Trade } from '@domgeswap/sdk'
+import { Currency, CurrencyAmount, Pair, Token, Trade } from '@domgeswap/beco-sdk'
 import flatMap from 'lodash.flatmap'
 import { useMemo } from 'react'
 

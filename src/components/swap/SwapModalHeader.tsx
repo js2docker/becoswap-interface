@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import styled, { ThemeContext } from 'styled-components'
-import { Trade, TradeType } from '@domgeswap/sdk'
+import { Trade, TradeType } from '@domgeswap/beco-sdk'
 import { Button, Text } from '@domgeswap/beco-uikit'
 import { ArrowDown, AlertTriangle } from 'react-feather'
 import { Field } from '../../state/swap/actions'

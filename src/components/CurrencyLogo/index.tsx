@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@domgeswap/sdk'
+import { Currency, ETHER, Token } from '@domgeswap/beco-sdk'
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 import useHttpLocations from '../../hooks/useHttpLocations'
